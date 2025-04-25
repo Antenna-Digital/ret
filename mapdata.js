@@ -318,7 +318,7 @@ var simplemaps_namap_mapdata = {
             lng: -104.9951949,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/aimco-logo-vector.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcaf37186b7e6e2ccb7c5_aimco-logo-vector.png"/>'
         },
         "2": {
             name: "Chicago, Illinois",
@@ -326,7 +326,7 @@ var simplemaps_namap_mapdata = {
             lng: -87.8720472,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/AMLI_Logo_File-scaled-1-2048x1117.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcb193e466e9a22cb220c_AMLI_Logo_File-scaled-1-2048x1117.jpg"/>'
         },
         "3": {
             name: "Des Moines, Iowa",
@@ -334,7 +334,7 @@ var simplemaps_namap_mapdata = {
             lng: -93.6765557,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/BH-Logo-Final-Color-2048x2008.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcb41fff342135d0d7ddd_BH-Logo-Final-Color-2048x2008.png"/>'
         },
         "4": {
             name: "Calgary, Alberta",
@@ -342,7 +342,7 @@ var simplemaps_namap_mapdata = {
             lng: -114.3680119,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/Boardwalk_logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcb6c415931df06c0c2b9_Boardwalk_logo.png"/>'
         },
         "5": {
             name: "Greenbelt, Maryland",
@@ -350,7 +350,7 @@ var simplemaps_namap_mapdata = {
             lng: -76.906864,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/Bozzuto-logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcb887fcaea0c2e46ceaa_Bozzuto-logo.png"/>'
         },
         "6": {
             name: "Sandy, Utah",
@@ -358,7 +358,7 @@ var simplemaps_namap_mapdata = {
             lng: -111.8842296,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/BridgeInvestmentGroup.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcba6bcca3eadeeac196d_BridgeInvestmentGroup.png"/>'
         },
         "7": {
             name: "Indianapolis, Indiana",
@@ -366,7 +366,7 @@ var simplemaps_namap_mapdata = {
             lng: -86.2728326,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/BuckinghamPartners_logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcbc259a2c1e948cf5c0e_BuckinghamPartners_logo.png"/>'
         },
         "8": {
             name: "Rockville, Maryland",
@@ -374,7 +374,7 @@ var simplemaps_namap_mapdata = {
             lng: -75.1811682,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/capreit_logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcbf32b0106da0af5674e_capreit_logo.png"/>'
         },
         "9": {
             name: "Minot, North Dakota",
@@ -382,7 +382,7 @@ var simplemaps_namap_mapdata = {
             lng: -101.3057148,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/centerspace_logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcc10a111c2056990fe31_centerspace_logo.png"/>'
         },
         "10": {
             name: "Lincoln, Maryland",
@@ -390,7 +390,7 @@ var simplemaps_namap_mapdata = {
             lng: -76.8281558,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/commercial-investment-properties-corporate-logo.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcc31eb3cc1e6395c5c25_commercial-investment-properties-corporate-logo.jpg"/>'
         },
         "11": {
             name: "Atlanta, Georgia",
@@ -398,7 +398,7 @@ var simplemaps_namap_mapdata = {
             lng: -84.4906439,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/cortland-logo-stacked-rgb-1.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcc544d458e9fd99d0d4e_cortland-logo-stacked-rgb-1.png"/>'
         },
         "12": {
             name: "Los Angeles, California",
@@ -406,7 +406,7 @@ var simplemaps_namap_mapdata = {
             lng: -117.6919172,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/decron_mobile_small.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcc7e0431d57376c7c724_decron_mobile_small.png"/>'
         },
         "13": {
             name: "Bloomfield Hills, Michigan",
@@ -414,7 +414,7 @@ var simplemaps_namap_mapdata = {
             lng: -83.2631385,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/edwardRoseSons_logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcc9900986c5ba7f05c1f_edwardRoseSons_logo.png"/>'
         },
         "14": {
             name: "San Mateo, California",
@@ -422,7 +422,7 @@ var simplemaps_namap_mapdata = {
             lng: -121.3506495,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/Essex_Logo_Black.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bccb463745d41027ea9e6_Essex_Logo_Black.jpg"/>'
         },
         "15": {
             name: "Atlanta, Georgia",
@@ -430,7 +430,7 @@ var simplemaps_namap_mapdata = {
             lng: -82.9906439,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/GablesResidentialLogo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bccccc437d51cf52c15b7_GablesResidentialLogo.png"/>'
         },
         "16": {
             name: "Boston , Massachusetts",
@@ -438,7 +438,7 @@ var simplemaps_namap_mapdata = {
             lng: -71.0403237,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/GID_Logo_Corp_DarkBlack.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcce6b8840aa3a138e9d8_GID_Logo_Corp_DarkBlack.jpg"/>'
         },
         "17": {
             name: "Charleston, South Carolina",
@@ -446,7 +446,7 @@ var simplemaps_namap_mapdata = {
             lng: -80.1105621,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/Greystar_Logo.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bccfecb418a2c8e756b11_Greystar_Logo.jpg"/>'
         },
         "18": {
             name: "San Francisco, California",
@@ -454,7 +454,7 @@ var simplemaps_namap_mapdata = {
             lng: -121.9506495,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/HamiltonZanze-Logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcd1b383fe343fecc3f77_HamiltonZanze-Logo.png"/>'
         },
         "19": {
             name: "El Paso, Texas",
@@ -462,7 +462,7 @@ var simplemaps_namap_mapdata = {
             lng: -105.5646016,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/huntlogo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcd33e56a1e7792625856_huntlogo.png"/>'
         },
         "20": {
             name: "Dallas, Texas",
@@ -470,7 +470,7 @@ var simplemaps_namap_mapdata = {
             lng: -96.6421726,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/InvitationHomes-Logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcd4c68493b7e96a3b061_InvitationHomes-Logo.png"/>'
         },
         // "21": {
         //     name: "Toronto, Ontario",
@@ -494,7 +494,7 @@ var simplemaps_namap_mapdata = {
             lng: -89.8252443,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/MAA-logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcd87b958cebc1dae936a_MAA-logo.png"/>'
         },
         "24": {
             name: "Kansas City, Missouri",
@@ -502,7 +502,7 @@ var simplemaps_namap_mapdata = {
             lng: -93.8559022,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/MaxusProperties-logo.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcda67186b7e6e2cf01f2_MaxusProperties-logo.jpg"/>'
         },
         "25": {
             name: "Harrison, New York",
@@ -510,7 +510,7 @@ var simplemaps_namap_mapdata = {
             lng: -73.7893297,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/MaxxProperties-logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcdcb2b4031a002150fdc_MaxxProperties-logo.png"/>'
         },
         "26": {
             name: "San Diego, California",
@@ -518,7 +518,7 @@ var simplemaps_namap_mapdata = {
             lng: -116.570878,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/MG_Logo.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcde1dc00742011e28822_MG_Logo.jpg"/>'
         },
         "27": {
             name: "Newton, Massachusetts",
@@ -526,7 +526,7 @@ var simplemaps_namap_mapdata = {
             lng: -72.2486973,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/northland-logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcdf9cb418a2c8e7626b4_northland-logo.png"/>'
         },
         "28": {
             name: "New York, New York",
@@ -534,7 +534,7 @@ var simplemaps_namap_mapdata = {
             lng: -73.3356108,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/osso-logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bce10696b3021ac33f280_osso-logo.png"/>'
         },
         "29": {
             name: "Chicago, Illinois",
@@ -542,7 +542,7 @@ var simplemaps_namap_mapdata = {
             lng: -89.3720472,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/Pinnacle_LG_Black_New.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bce2b88eb3e3db025097d_Pinnacle_LG_Black_New.jpg"/>'
         },
         "30": {
             name: "Saginaw, Michigan",
@@ -550,7 +550,7 @@ var simplemaps_namap_mapdata = {
             lng: -84.3356108,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/Pretium.jpeg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bce4788eb3e3db0251876_Pretium.jpeg"/>'
         },
         "31": {
             name: "Chicago, Illinois",
@@ -558,7 +558,7 @@ var simplemaps_namap_mapdata = {
             lng: -87.8720472,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/progressresidential-logo-scaled-1.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bce672b0106da0af75847_progressresidential-logo-scaled-1.jpg"/>'
         },
         "32": {
             name: "Toronto, Ontario",
@@ -566,7 +566,7 @@ var simplemaps_namap_mapdata = {
             lng: -81.2181411,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/starlightinvestments-logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bce819e22db0cdc9a971d_starlightinvestments-logo.png"/>'
         },
         "33": {
             name: "Miami, Florida",
@@ -574,7 +574,7 @@ var simplemaps_namap_mapdata = {
             lng: -80.9994985,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/Starwood-Capital.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bce99b1832aad75adae12_Starwood-Capital.jpg"/>'
         },
         "34": {
             name: "Irvine, California",
@@ -582,7 +582,7 @@ var simplemaps_namap_mapdata = {
             lng: -115.7434288,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/trinity-logo.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bceb3188894b1bc49010b_trinity-logo.png"/>'
         },
         "35": {
             name: "Highlands Ranch, Colorado",
@@ -590,7 +590,7 @@ var simplemaps_namap_mapdata = {
             lng: -104.0113958,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/UDR-logo.jpg"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcecd5fe8af74f6e7bed7_UDR-logo.jpg"/>'
         },
         "36": {
             name: "Houston, Texas",
@@ -598,7 +598,7 @@ var simplemaps_namap_mapdata = {
             lng: -95.6814739,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/venterrarealtycolorhorizontal.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcee9dc00742011e358ef_venterrarealtycolorhorizontal.png"/>'
         },
         "37": {
             name: "Philadelphia, PA",
@@ -606,7 +606,7 @@ var simplemaps_namap_mapdata = {
             lng: -75.165222,
             type: 'image',
             image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
-            description: '<img src="/wp-content/uploads/LCOR.png"/>'
+            description: '<img src="https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bcf1414fe83863a978c11_LCOR.png"/>'
         },
     },
     labels: {
