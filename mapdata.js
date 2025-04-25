@@ -26,7 +26,7 @@ var simplemaps_namap_mapdata = {
         location_url: "",
         location_size: 28,
         location_type: "square",
-        location_image_source: "/wp-content/themes/ret/assets/images/marker.svg",
+        location_image_source: "https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg",
         location_border_color: "#FFFFFF",
         location_border: 2,
         location_hover_border: 2.5,
@@ -70,7 +70,7 @@ var simplemaps_namap_mapdata = {
         link_text: "View Website",
         state_image_url: "",
         state_image_position: "",
-        location_image_url: "/wp-content/themes/ret/assets/images/marker.svg"
+        location_image_url: "https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg"
     },
     state_specific: {
         AB: {
@@ -317,7 +317,7 @@ var simplemaps_namap_mapdata = {
             lat: 39.7645187,
             lng: -104.9951949,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/aimco-logo-vector.png"/>'
         },
         "2": {
@@ -325,7 +325,7 @@ var simplemaps_namap_mapdata = {
             lat: 41.8339037,
             lng: -87.8720472,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/AMLI_Logo_File-scaled-1-2048x1117.jpg"/>'
         },
         "3": {
@@ -333,7 +333,7 @@ var simplemaps_namap_mapdata = {
             lat: 41.5667771,
             lng: -93.6765557,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/BH-Logo-Final-Color-2048x2008.png"/>'
         },
         "4": {
@@ -341,7 +341,7 @@ var simplemaps_namap_mapdata = {
             lat: 51.0277202,
             lng: -114.3680119,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/Boardwalk_logo.png"/>'
         },
         "5": {
@@ -349,7 +349,7 @@ var simplemaps_namap_mapdata = {
             lat: 38.9931495,
             lng: -76.906864,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/Bozzuto-logo.png"/>'
         },
         "6": {
@@ -357,7 +357,7 @@ var simplemaps_namap_mapdata = {
             lat: 40.5724645,
             lng: -111.8842296,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/BridgeInvestmentGroup.png"/>'
         },
         "7": {
@@ -365,7 +365,7 @@ var simplemaps_namap_mapdata = {
             lat: 39.7799642,
             lng: -86.2728326,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/BuckinghamPartners_logo.png"/>'
         },
         "8": {
@@ -373,7 +373,7 @@ var simplemaps_namap_mapdata = {
             lat: 39.0869949,
             lng: -75.1811682,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/capreit_logo.png"/>'
         },
         "9": {
@@ -381,7 +381,7 @@ var simplemaps_namap_mapdata = {
             lat: 48.2373943,
             lng: -101.3057148,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/centerspace_logo.png"/>'
         },
         "10": {
@@ -389,7 +389,7 @@ var simplemaps_namap_mapdata = {
             lat: 38.9631842,
             lng: -76.8281558,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/commercial-investment-properties-corporate-logo.jpg"/>'
         },
         "11": {
@@ -397,7 +397,7 @@ var simplemaps_namap_mapdata = {
             lat: 33.7678358,
             lng: -84.4906439,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/cortland-logo-stacked-rgb-1.png"/>'
         },
         "12": {
@@ -405,7 +405,7 @@ var simplemaps_namap_mapdata = {
             lat: 34.4207305,
             lng: -117.6919172,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/decron_mobile_small.png"/>'
         },
         "13": {
@@ -413,7 +413,7 @@ var simplemaps_namap_mapdata = {
             lat: 42.5781013,
             lng: -83.2631385,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/edwardRoseSons_logo.png"/>'
         },
         "14": {
@@ -421,7 +421,7 @@ var simplemaps_namap_mapdata = {
             lat: 37.9565988,
             lng: -121.3506495,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/Essex_Logo_Black.jpg"/>'
         },
         "15": {
@@ -429,7 +429,7 @@ var simplemaps_namap_mapdata = {
             lat: 32.7678358,
             lng: -82.9906439,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/GablesResidentialLogo.png"/>'
         },
         "16": {
@@ -437,7 +437,7 @@ var simplemaps_namap_mapdata = {
             lat: 42.3144556,
             lng: -71.0403237,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/GID_Logo_Corp_DarkBlack.jpg"/>'
         },
         "17": {
@@ -445,7 +445,7 @@ var simplemaps_namap_mapdata = {
             lat: 33.8212559,
             lng: -80.1105621,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/Greystar_Logo.jpg"/>'
         },
         "18": {
@@ -453,7 +453,7 @@ var simplemaps_namap_mapdata = {
             lat: 38.5565988,
             lng: -121.9506495,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/HamiltonZanze-Logo.png"/>'
         },
         "19": {
@@ -461,7 +461,7 @@ var simplemaps_namap_mapdata = {
             lat: 32.2113481,
             lng: -105.5646016,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/huntlogo.png"/>'
         },
         "20": {
@@ -469,7 +469,7 @@ var simplemaps_namap_mapdata = {
             lat: 33.3070996,
             lng: -96.6421726,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/InvitationHomes-Logo.png"/>'
         },
         // "21": {
@@ -477,7 +477,7 @@ var simplemaps_namap_mapdata = {
         //     lat: 43.7184038,
         //     lng: -79.5181411,
         //     type: 'image',
-        //     image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+        //     image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
         //     description: '<img src="/wp-content/uploads/LMC_Logo.jpg"/>'
         // },
         // "22": {
@@ -485,7 +485,7 @@ var simplemaps_namap_mapdata = {
         //     lat: 32.8630007,
         //     lng: -98.0314733,
         //     type: 'image',
-        //     image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+        //     image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
         //     description: '<img src="/wp-content/uploads/LMC_Logo.jpg"/>'
         // },
         "23": {
@@ -493,7 +493,7 @@ var simplemaps_namap_mapdata = {
             lat: 35.0750612,
             lng: -89.8252443,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/MAA-logo.png"/>'
         },
         "24": {
@@ -501,7 +501,7 @@ var simplemaps_namap_mapdata = {
             lat: 39.0921167,
             lng: -93.8559022,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/MaxusProperties-logo.jpg"/>'
         },
         "25": {
@@ -509,7 +509,7 @@ var simplemaps_namap_mapdata = {
             lat: 41.0195724,
             lng: -73.7893297,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/MaxxProperties-logo.png"/>'
         },
         "26": {
@@ -517,7 +517,7 @@ var simplemaps_namap_mapdata = {
             lat: 33.6947988,
             lng: -116.570878,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/MG_Logo.jpg"/>'
         },
         "27": {
@@ -525,7 +525,7 @@ var simplemaps_namap_mapdata = {
             lat: 42.325431,
             lng: -72.2486973,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/northland-logo.png"/>'
         },
         "28": {
@@ -533,7 +533,7 @@ var simplemaps_namap_mapdata = {
             lat: 41.4749979,
             lng: -73.3356108,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/osso-logo.png"/>'
         },
         "29": {
@@ -541,7 +541,7 @@ var simplemaps_namap_mapdata = {
             lat: 42.1339037,
             lng: -89.3720472,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/Pinnacle_LG_Black_New.jpg"/>'
         },
         "30": {
@@ -549,7 +549,7 @@ var simplemaps_namap_mapdata = {
             lat: 43.4749979,
             lng: -84.3356108,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/Pretium.jpeg"/>'
         },
         "31": {
@@ -557,7 +557,7 @@ var simplemaps_namap_mapdata = {
             lat: 42.8339037,
             lng: -87.8720472,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/progressresidential-logo-scaled-1.jpg"/>'
         },
         "32": {
@@ -565,7 +565,7 @@ var simplemaps_namap_mapdata = {
             lat: 43.7184038,
             lng: -81.2181411,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/starlightinvestments-logo.png"/>'
         },
         "33": {
@@ -573,7 +573,7 @@ var simplemaps_namap_mapdata = {
             lat: 26.9825453,
             lng: -80.9994985,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/Starwood-Capital.jpg"/>'
         },
         "34": {
@@ -581,7 +581,7 @@ var simplemaps_namap_mapdata = {
             lat: 34.6866448,
             lng: -115.7434288,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/trinity-logo.png"/>'
         },
         "35": {
@@ -589,7 +589,7 @@ var simplemaps_namap_mapdata = {
             lat: 38.5383572,
             lng: -104.0113958,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/UDR-logo.jpg"/>'
         },
         "36": {
@@ -597,7 +597,7 @@ var simplemaps_namap_mapdata = {
             lat: 29.8168824,
             lng: -95.6814739,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/venterrarealtycolorhorizontal.png"/>'
         },
         "37": {
@@ -605,7 +605,7 @@ var simplemaps_namap_mapdata = {
             lat: 39.952583,
             lng: -75.165222,
             type: 'image',
-            image_url: '/wp-content/themes/ret/assets/images/marker.svg',
+            image_url: 'https://cdn.prod.website-files.com/67ffda58fdab244706545196/680bbd379493565112964d0b_marker.svg',
             description: '<img src="/wp-content/uploads/LCOR.png"/>'
         },
     },
