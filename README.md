@@ -1,2 +1,2 @@
-# ret
-js files for Webflow site
+# RET Ventures
+js files for the Webflow site
