@@ -1,5 +1,3 @@
-<script>
-
 
 document.addEventListener("DOMContentLoaded", function () {
   console.log("ready!");
@@ -328,5 +326,3 @@ document.addEventListener("DOMContentLoaded", function () {
   initTypewriter();
 });
 
-
-</script>
