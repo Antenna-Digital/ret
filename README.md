@@ -8,3 +8,7 @@ Purge URL: https://purge.jsdelivr.net/gh/Antenna-Digital/ret@latest/mapdata.js
 Script URL: https://cdn.jsdelivr.net/gh/Antenna-Digital/ret@latest/namap.js
 
 Purge URL: https://purge.jsdelivr.net/gh/Antenna-Digital/ret@latest/namap.js
+
+Script URL: https://cdn.jsdelivr.net/gh/Antenna-Digital/ret@main/scripts.js
+
+Purge URL: https://purge.jsdelivr.net/gh/Antenna-Digital/ret@main/scripts.js
